@@ -3,11 +3,19 @@
 
 
 <p align="center">
-    <img align="middle" width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b3nab&theme=2077">
-    <img align="middle" width="33%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=b3nab&theme=2077">
-    <!-- ![b3nab profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b3nab&theme=2077) -->
-    <!-- ![b3nab github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=b3nab&theme=2077) -->
+    <img align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b3nab&theme=2077">
 </p>
+<!-- ![b3nab profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b3nab&theme=2077) -->
+
+<!-- ![b3nab github trophy](https://github-profile-trophy.vercel.app/?username=b3nab&theme=2077) -->
+
+<p align="center">
+    <img align="middle" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=b3nab&theme=2077">
+    <img align="middle" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=b3nab&theme=2077">
+</p>
+
+<!-- ![b3nab github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=b3nab&theme=2077) -->
+<!-- ![b3nab github stats](https://github-readme-streak-stats.herokuapp.com/?user=b3nab&theme=2077) -->
 
 ## I'm Ben Abbenanti
 

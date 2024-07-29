@@ -1,3 +1,10 @@
+
+## I'm Ben Abbenanti
+
+My name is Ben Abbenanti and I am a Tech Lead, IT Consultant and Software Engineer with an enterprenurial mindset. I worked with multiple companies ranging from small to enterprise. But I also do love creating and building my projects and here you can find some of them that I released as open source.
+
+<!-- ![b3nab must used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b3nab&theme=2077) -->
+
 <!-- # Ciao foreigner! -->
 ## Welcome to my github home 😁
 
@@ -16,12 +23,6 @@
 
 <!-- ![b3nab github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=b3nab&theme=2077) -->
 <!-- ![b3nab github stats](https://github-readme-streak-stats.herokuapp.com/?user=b3nab&theme=2077) -->
-
-## I'm Ben Abbenanti
-
-My name is Ben Abbenanti and I am a Tech Lead, IT Consultant and Software Engineer with an enterprenurial mindset. I worked with multiple companies ranging from small to enterprise. But I also do love creating and building my projects and here you can find some of them that I released as open source.
-
-<!-- ![b3nab must used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b3nab&theme=2077) -->
 
 ## Tech Stack and Tools
 

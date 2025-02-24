@@ -3,7 +3,7 @@
 
 My name is Ben. I worked as a Tech Lead, IT Consultant and Software Engineer on many projects for multiple companies of different sizes ranging from small to enterprise.
 
-Yes, I am a developer but with an enterprenurial mindset. I do also love use and contribute to open-source softwares, as well as release some of my code open here on my github profile.
+Yes, I am a developer but with an enterprenurial mindset. I love use and contribute to open-source softwares, as well as release some of my code open here on my github profile (even if most of my repos are private).
 
 <!-- ![b3nab must used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b3nab&theme=2077) -->
 
